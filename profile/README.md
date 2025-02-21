@@ -1,12 +1,13 @@
-## Hi there 👋
+## CallePuzzle
 
-<!--
+La motivación de crear esta organización fue la de compartir conocimiento y herramientas que surgían de una determinada necesidad, y que podían ser de utilidad para otros.
 
-**Here are some ideas to get you started:**
+Desde la evolución de la instalación de un [NextCloud](https://nextcloud.com):
+- [ansible-role-docker-nextcloud](https://github.com/CallePuzzle/ansible-role-docker-nextcloud)
+- [villajilguero-oci-services](https://github.com/CallePuzzle/villajilguero-oci-services)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+O la creación de un action para GitHub: [envvar-to-dotenv-action](https://github.com/CallePuzzle/envvar-to-dotenv-action)
+
+O una aplicación web para localizar las peñas del pueblo: [donde-esta-tu-local](https://github.com/CallePuzzle/donde-esta-tu-local)
+
+Además en nuestro [blog](https://www.callepuzzle.com/blog) encontrarás artículos que predenden resumir o solucionar problemas encontrados a lo largo de nuestra experiencia.
