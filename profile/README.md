@@ -14,4 +14,4 @@ O los proyectos en los que estamos trabajando actualmente:
 - una lista de compra con vitaminas: [y-tu-que-compras](https://github.com/CallePuzzle/y-tu-que-compras)
 - un calendario para gestionar tus gastos: [cash-calendar](https://github.com/CallePuzzle/cash-calendar)
 
-Además en nuestro [blog](https://www.callepuzzle.com/blog) encontrarás artículos que predenden resumir o solucionar problemas encontrados a lo largo de nuestra experiencia.
+Además en nuestro [blog](https://www.callepuzzle.com/blog) encontrarás artículos que pretenden resumir o solucionar problemas encontrados a lo largo de nuestra experiencia.
